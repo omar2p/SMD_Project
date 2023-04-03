@@ -30,6 +30,7 @@ Teachers:
 - Communicate with students and parents through the platform.  
 - Access platform analytics to evaluate student engagement and performance.  
 - Organize course material into modules and sections.  
+
 Students:  
 - Access course materials and resources.  
 - Complete assignments, quizzes, and exams.  
@@ -37,6 +38,7 @@ Students:
 - Participate in discussion forums and engage with other students.  
 - Receive notifications for new course material and upcoming deadlines.  
 - View their grades and academic progress.  
+
 Parents:   
 - Monitor their child's academic progress, including attendance and grades
 View upcoming assignments and deadlines.  
