@@ -29,15 +29,15 @@ Teachers:
 - Monitor student progress and grades.  
 - Communicate with students and parents through the platform.  
 - Access platform analytics to evaluate student engagement and performance.  
-- Organize course material into modules and sections.    
+- Organize course material into modules and sections.  
 Students:  
 - Access course materials and resources.  
 - Complete assignments, quizzes, and exams.  
 - Track progress and receive feedback on completed work.  
 - Participate in discussion forums and engage with other students.  
 - Receive notifications for new course material and upcoming deadlines.  
-- View their grades and academic progress
-Parents.  
+- View their grades and academic progress.  
+Parents:   
 - Monitor their child's academic progress, including attendance and grades
 View upcoming assignments and deadlines.  
 - Communicate with teachers to stay informed about their child's performance.  
