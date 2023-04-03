@@ -22,7 +22,7 @@ The platform will feature an intuitive interface that is user-friendly and easy 
 
 In summary, our educational platform is designed to provide an all-in-one solution for teachers, parents, and students. It will facilitate effective learning and promote student success by providing a convenient, flexible, and engaging environment for all users. We are confident that our platform will revolutionize the way we approach education and provide a new level of convenience and engagement for all users.  
 
-
+Functionalities:  
 Teachers:  
 - Upload course content, such as lecture notes, videos, and slides.  
 - Create and manage assignments, quizzes, and exams.  
