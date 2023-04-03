@@ -20,4 +20,26 @@ Parents will be able to monitor their child's academic progress through the plat
 
 The platform will feature an intuitive interface that is user-friendly and easy to navigate. It will be designed with scalability in mind, ensuring that it can grow and adapt as the needs of the users change over time.
 
-In summary, our educational platform is designed to provide an all-in-one solution for teachers, parents, and students. It will facilitate effective learning and promote student success by providing a convenient, flexible, and engaging environment for all users. We are confident that our platform will revolutionize the way we approach education and provide a new level of convenience and engagement for all users.
+In summary, our educational platform is designed to provide an all-in-one solution for teachers, parents, and students. It will facilitate effective learning and promote student success by providing a convenient, flexible, and engaging environment for all users. We are confident that our platform will revolutionize the way we approach education and provide a new level of convenience and engagement for all users.  
+
+
+Teachers:  
+- Upload course content, such as lecture notes, videos, and slides.  
+- Create and manage assignments, quizzes, and exams.  
+- Monitor student progress and grades.  
+- Communicate with students and parents through the platform.  
+- Access platform analytics to evaluate student engagement and performance.  
+- Organize course material into modules and sections.    
+Students:  
+- Access course materials and resources.  
+- Complete assignments, quizzes, and exams.  
+- Track progress and receive feedback on completed work.  
+- Participate in discussion forums and engage with other students.  
+- Receive notifications for new course material and upcoming deadlines.  
+- View their grades and academic progress
+Parents.  
+- Monitor their child's academic progress, including attendance and grades
+View upcoming assignments and deadlines.  
+- Communicate with teachers to stay informed about their child's performance.  
+- Receive notifications for important updates, such as new course material and upcoming assignments.  
+- Access platform analytics to track their child's engagement and performance.  
