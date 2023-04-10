@@ -45,3 +45,24 @@ View upcoming assignments and deadlines.
 - Communicate with teachers to stay informed about their child's performance.  
 - Receive notifications for important updates, such as new course material and upcoming assignments.  
 - Access platform analytics to track their child's engagement and performance.  
+
+
+
+
+
+Dependencies:
+- Students must submit their assignment before the deadline. There is no submission after the required data and time, or else they
+will get a 0 for that task.
+- There will be no more than 4 course/subject evaluation methods per day. More than this means more workload for students and reciprocally more work for teachers or parents.
+- The application is not designed for an unlimited number of students. The capacity of the system holds no more than 20 teachers and 100 students.
+With each student there will also be his/her respective parent/s, so that should not be more than 120.
+- The subject will have a limited number of assignments/quizzes/projects/exams that should not exceed 100% altogether.
+- To make the communication process between the students and the teachers/parents possible, notifications need to be sent to all these
+three to ensure that everything is being notified.
+- Teachers need to have a graphical description regarding the child's academic performance/activity progress so that they can make their
+assessments more accurately and objectively.
+- A forum for the communication between the students is mandatory, so that they can share any difficulties they have about certain
+questions together.
+- A syllabus system is strictly requested too; in this way, the course can be divided into sections, topics, assessment methods, learning objectives,
+and the weight in percentage for each assessment method.
+- Students need to be enrolled by a teacher to be part of a certain course, and the lack of a login systems (so that the parents/students/teachers can enter the system) is prohibited.
