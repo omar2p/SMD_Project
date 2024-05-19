@@ -6,8 +6,7 @@ Members
 3- Admirim Kasolli  
 4- Brinaldo Vorfi  
 5- Endi Guri  
-6- Juljan Losha  
-7- Fatjon Hodo  
+6- Juljan Losha
   
 Description:  
 Our project is a cutting-edge educational platform that aims to provide a seamless learning experience for teachers, parents, and students. The platform will be a comprehensive Learning Management System (LMS) that will allow teachers to upload and manage course content, students to access and complete assignments, and parents to monitor their children's academic progress.
